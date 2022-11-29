@@ -1,0 +1,3 @@
+This file is the text that gets sent by the mail script.
+
+PythonTest123
